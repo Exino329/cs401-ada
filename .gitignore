@@ -3,4 +3,5 @@
 *.DS_Store?
 .idea
 .idea/
-old_exams/2024/outputacm.txt
+old-exams/2024/outputacm.txt
+old-exams/2023/data/*
